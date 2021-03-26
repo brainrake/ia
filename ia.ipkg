@@ -1,0 +1,8 @@
+package ia
+version = "1.0.0"
+executable = ia
+main = Ia
+modules = 
+    Ia
+          
+depends = prelude,base,contrib,network
